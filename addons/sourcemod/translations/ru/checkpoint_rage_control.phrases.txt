@@ -1,0 +1,17 @@
+"Phrases"
+{
+	"TAG"
+	{
+		"ru"    "<{green}Checkpoint{default}> "
+	}
+
+	"LOSE_FRUSTRATION"
+	{
+		"ru"	"{red}Танк{default} будет {green}терять контроль{default}, пока выжившие находятся в {olive}saferoom"
+	}
+
+	"KEEP_FRUSTRATION"
+	{
+		"ru"	"{red}Танк{default} не будет {green}терять контроль{default}, пока выжившие находятся в {olive}saferoom"
+	}
+}
